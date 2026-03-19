@@ -3,21 +3,21 @@
 ## 📚 Courses (Follow THIS Order)
 
 1. Software Architecture & Design of Modern Large Scale Systems  
-https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-system
+https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
 
-2. System Design (ByteByteGo)  
+3. System Design (ByteByteGo)  
 https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users
 
-3. AWS Certified Solutions Architect Associate (SAA-C03)  
+4. AWS Certified Solutions Architect Associate (SAA-C03)  
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
 
-4. Docker and Kubernetes: The Complete Guide  
+5. Docker and Kubernetes: The Complete Guide  
 https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
 
-5. Microservices + Event-Driven Architecture  
+6. Microservices + Event-Driven Architecture  
 https://www.udemy.com/course/the-complete-microservices-event-driven-architecture/
 
-6. Generative AI Architectures (LLM, RAG, Vector DB)  
+7. Generative AI Architectures (LLM, RAG, Vector DB)  
 https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db
 
 ---
