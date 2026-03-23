@@ -12,12 +12,14 @@ https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millio
 https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
 
 5. Docker and Kubernetes: The Complete Guide  
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
 
-6. Microservices + Event-Driven Architecture  
+https://www.udemy.com/course/learn-docker/
+https://www.udemy.com/course/learn-kubernetes/
+
+7. Microservices + Event-Driven Architecture  
 https://www.udemy.com/course/the-complete-microservices-event-driven-architecture/
 
-7. Generative AI Architectures (LLM, RAG, Vector DB)  
+8. Generative AI Architectures (LLM, RAG, Vector DB)  
 https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db
 
 ---
@@ -55,7 +57,8 @@ Mini Project: Basic RAG Q&A App
 
 ## 📅 Weeks 13–16 → Containers  
 Course: Docker and Kubernetes  
-https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
+https://www.udemy.com/course/learn-docker/
+https://www.udemy.com/course/learn-kubernetes/
 
 ---
 
